@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello~~
 
-<!--
-**captdam/captdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About what I do every day for work and hobby:
 
-Here are some ideas to get you started:
+## Embedded system dev:
+- Digital (and little analog) circuit design.
+- MCU programming: AVR (mostly tiny series) and 8051
+- Using C and ASM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PC software dev:
+- Using C for most time.
+- Java and Python for some projects.
+- OpenGL ES application.
+
+## Server dev:
+- Web: PHP + MySQL + HTML + JS <-- I wrote my website
